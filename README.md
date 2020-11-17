@@ -1,3 +1,3 @@
 # terraform-cloud
-Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers as well as custom in-house solutions.
+Terraform is a tool that enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. Terraform can manage existing and popular service providers as well as custom in-house solutions.
 # Terraform Cloud
